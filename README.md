@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Notauser24
+- 👀 I’m interested in ...this someone put this on my phone without my permission!!! please get this off of
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...ofmy phone pronto
+- 
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Notauser24/Notauser24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
